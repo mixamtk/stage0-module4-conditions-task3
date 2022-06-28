@@ -10,6 +10,6 @@ public class DaysInMonthPrinter {
       else 
       System.out.println("30");
       } else
-      System.out.println("wrong number");
+      System.out.println("wrong number!");
     }
 }
