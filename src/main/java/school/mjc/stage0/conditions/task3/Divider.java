@@ -6,7 +6,7 @@ public class Divider {
       if (number % 5 == 0 & number % 11 == 0) {
           System.out.println("Dividable");
       } else System.out.println("Non-dividible");
-      }
+      } else
         System.out.println("cannot divide by zero");
     }
 }
