@@ -10,8 +10,6 @@ public class AlphabeticCharacters {
           else {
               System.out.println("Consonant");}
       } else {
-          System.out.println("wrong alphabet!");
-      } tem.out.println("Non English");
-      } 
+          System.out.println("wrong alphabet!");}
     }
 }
